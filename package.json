@@ -1,0 +1,18 @@
+{
+  "name": "async-jest-test",
+  "version": "1.0.0",
+  "description": "A reproduction of the Bug detailed in https://github.com/facebook/jest/issues/2059#issuecomment-357998524.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Roland Awemo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.1.1",
+    "jest-cli": "^22.1.1"
+  },
+  "dependencies": {
+    "botbuilder": "^3.13.1"
+  }
+}
